@@ -2,7 +2,7 @@
 
 **`Full Stack Web developer`**
 
-A modern web developer uses Next.js, TRPC, Prisma, and Tailwind CSS to build type-safe, scalable, and visually appealing full-stack web applications with efficiency and performance.
+A modern web developer that uses Next.js, TRPC, Prisma, and Tailwind CSS to build type-safe, scalable, and visually appealing full-stack web applications with efficiency and performance.
 
 ### 🧰 Languages and Tools
 
